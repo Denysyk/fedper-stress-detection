@@ -1,0 +1,6 @@
+# Pinned to versions verified to reproduce the regression tests in tests.py.
+# (Not necessarily the exact versions used to produce the numbers in
+# README.md -- those were run on a different machine.)
+numpy==2.2.6
+matplotlib==3.10.9
+flwr==1.30.0

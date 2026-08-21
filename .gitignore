@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+*.pkl
+results/
+.DS_Store
+# recommended layout: data/WESAD/S2/S2.pkl, data/WESAD/S3/S3.pkl, ...
+# results_archive/ is intentionally tracked -- it's the labeled, final
+# results, not scratch output like results/

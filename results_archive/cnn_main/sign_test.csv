@@ -1,0 +1,4 @@
+method_a,method_b,a_wins,b_wins,n_seeds,p_value,verdict
+fedper_adaptive,fedavg,10,0,10,0.001953125,significant (p<0.05)
+fedper_adaptive,fedper,9,1,10,0.021484375,significant (p<0.05)
+fedper_adaptive,ditto,10,0,10,0.001953125,significant (p<0.05)
